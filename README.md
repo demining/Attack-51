@@ -30,8 +30,8 @@
                       <a class="newsup-categories category-color-1" href="https://polynonce.ru/category/technology/" alt="View all entries in Technology"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
                                  technology
                              </font></font></a>                </div>
-                                <h1 class="title single"> <a title="Permanent link to:51% Attack: Cryptocurrency Vulnerability Revealed"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                  51% Attack: Cryptocurrency Vulnerability Revealed</font></font></a>
+                                <h1 class="title single"> <a title="Permanent link to:Attack 51% : Cryptocurrency Vulnerability Revealed"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                  Attack 51% : Cryptocurrency Vulnerability Revealed</font></font></a>
                 </h1>
                                 <div class="media mg-info-author-block"> 
                                     <a class="mg-author-pic" href="https://polynonce.ru/author/polynonce/"> <img alt="" src="./Attack%2051%25%20_%20Cryptocurrency%20Vulnerability%20Revealed%20-%20_POLYNONCE__files/92eca8f874777c40d1e4256ef5d5cf7e(2).png" srcset="https://secure.gravatar.com/avatar/92eca8f874777c40d1e4256ef5d5cf7e?s=300&amp;d=wp_user_avatar&amp;r=g 2x" class="avatar avatar-150 photo" height="150" width="150" loading="lazy" decoding="async"> </a>
